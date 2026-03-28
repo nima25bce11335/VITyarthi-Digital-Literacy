@@ -1,0 +1,13 @@
+TASK 5 : Cybercrime Awareness Case Study & Prevention Guide
+
+Part B – Prevention Checklist:
+
+Stay Safe Online Checklist:
+1. Use strong, unique passwords for all accounts and update them regularly.
+2. Enable two-factor authentication (2FA) wherever possible.
+3. Avoid clicking on suspicious links or downloading attachments from unknown sources.
+4. Keep your devices updated with the latest security patches and antivirus software.
+5. Be mindful of what you share on social media—avoid posting sensitive personal details.
+6. For UPI/Online Payments: Always verify the recipient’s details before transferring money.
+7. For UPI/Online Payments: Never share your UPI PIN or OTP with anyone, even if they claim to be from your bank.
+8. Report any suspicious activity or cybercrime immediately through the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930.
